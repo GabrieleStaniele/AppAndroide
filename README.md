@@ -18,4 +18,4 @@ Este é um aplicativo Android desenvolvido em Kotlin que funciona como uma Poké
 - **Framework:** Android Studio
 - **Interface:** `ListView` para exibição da lista de Pokémon
 - **Layout:** XML para design das telas
-- **Imagens e Dados:** Imagens e dados dos Pokémon (reais ou fictícios)
+- **Imagens e Dados:** Imagens e dados dos Pokémon 
