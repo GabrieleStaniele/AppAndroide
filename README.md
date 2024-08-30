@@ -19,3 +19,4 @@ Este é um aplicativo Android desenvolvido em Kotlin que funciona como uma Poké
 - **Interface:** `ListView` para exibição da lista de Pokémon
 - **Layout:** XML para design das telas
 - **Imagens e Dados:** Imagens e dados dos Pokémon (reais ou fictícios)
+- **Glide**: https://github.com/bumptech/glide
